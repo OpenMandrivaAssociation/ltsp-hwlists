@@ -6,7 +6,6 @@ License:	GPL
 Group:		System/Servers
 URL:		http://www.ltsp.org
 Source0:	pci_scan-lists.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 This package contains LTSP hardware lists for use with pci_scan. It includes a
