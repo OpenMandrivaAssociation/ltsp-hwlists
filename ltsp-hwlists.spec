@@ -1,7 +1,7 @@
 Summary:	LTSP hardware lists
 Name:		ltsp-hwlists
 Version:	0.02
-Release:	5
+Release:	6
 License:	GPLv2+
 Group:		System/Servers
 Url:		http://www.ltsp.org
