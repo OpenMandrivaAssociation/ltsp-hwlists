@@ -4,7 +4,7 @@ Version:	0.02
 Release:	6
 License:	GPLv2+
 Group:		System/Servers
-Url:		http://www.ltsp.org
+Url:		https://www.ltsp.org
 Source0:	pci_scan-lists.tar.bz2
 BuildArch:	noarch
 
